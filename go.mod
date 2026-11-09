@@ -1,6 +1,6 @@
 module github.com/gin-gonic/gin
 
-go 1.18
+go 1.21.0
 
 require (
 	github.com/gin-contrib/sse v0.1.0
@@ -8,7 +8,7 @@ require (
 	github.com/goccy/go-json v0.9.11
 	github.com/json-iterator/go v1.1.12
 	github.com/mattn/go-isatty v0.0.16
-	github.com/pelletier/go-toml/v2 v2.0.6
+	github.com/pelletier/go-toml/v2 v2.4.3
 	github.com/stretchr/testify v1.8.1
 	github.com/ugorji/go/codec v1.2.7
 	golang.org/x/net v0.4.0
